@@ -1,1 +1,0 @@
-mouse_click.bat 60
